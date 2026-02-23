@@ -1,5 +1,5 @@
-# Since Hub
-### Full Stack AI Engineer | Intelligent Systems | Scalable Architecture
+
+### Full Stack AI Engineer
 
 Building AI-powered platforms, distributed backend systems, and modern frontend applications designed for scale and production environments.
 
