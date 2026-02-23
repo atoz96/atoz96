@@ -83,12 +83,4 @@ Building AI-powered platforms, distributed backend systems, and modern frontend 
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
-
----
-
 _Design intelligently. Engineer for scale. Ship with precision._
